@@ -2,4 +2,5 @@ apple
 apple
 @@@apple
 apple edit by hot_fix
-apple edit by partenr 2
+apple edit by partner 1
+apple edit by partner 2
